@@ -1,0 +1,23 @@
+# Python virtual environment
+myenv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+*.env
+
+.vscode/
+.idea/
+.DS_Store
+
+logs/
+*.log
+*.bak
+*.swp
+*.swo

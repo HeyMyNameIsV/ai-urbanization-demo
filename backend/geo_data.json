@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sheki Center",
+          "elevation": 700,
+          "water_proximity": 0.6,
+          "road_access_score": 7
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.1667, 41.2]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sheki Palace Area",
+          "elevation": 850,
+          "water_proximity": 0.9,
+          "road_access_score": 5
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.1985, 41.2190]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mountain Overlook",
+          "elevation": 1200,
+          "water_proximity": 0.3,
+          "road_access_score": 4
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.1520, 41.1850]
+        }
+      }
+    ]
+  }
